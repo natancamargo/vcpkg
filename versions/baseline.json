@@ -160,6 +160,10 @@
       "baseline": "chromium_7258",
       "port-version": 2
     },
+    "ankicpp": {
+      "baseline": "0.1.24",
+      "port-version": 0
+    },
     "ankurvdev-embedresource": {
       "baseline": "0.0.12",
       "port-version": 0
