@@ -1,0 +1,6 @@
+The package ankicpp provides CMake targets:
+
+    find_package(ankicpp CONFIG REQUIRED)
+    target_link_libraries(main PRIVATE ankicpp::ankicpp)
+
+Note that ankicpp requires the environment variable $VCPKG_ROOT.
